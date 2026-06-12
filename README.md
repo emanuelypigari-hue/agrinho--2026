@@ -1,6 +1,6 @@
 # agrinho--2026
 projeto agrinho
-LINK DO PROJETO: https://github.com/emanuelypigari-hue/agrinho--2026/blob/main/README.md
+LINK DO PROJETO: https://emanuelypigari-hue.github.io/agrinho--2026/
 Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente”. 
 
 
